@@ -1,0 +1,17 @@
+Objective (why?):
+Reptile owners don’t have access to high-quality temperature systems for their enclosures, which can adversely affect the health of the pet. There is also no remote access to temperature controls.
+
+Background (who? where?):
+Owners of reptiles that suffer from poor temperature control.
+
+Methodology (how? when?):
+Develop a system that automatically responds to temperature fluctuations in a reptile habitat using temperature sensors, and temperature control systems that activate and deactivate depending on temperature goals.
+The system should activate if the temperature of the enclosure reaches a level higher or lower than an allotted range of temperature.
+The system will control UVB lighting to sync with the local sun cycle.
+
+Expected results (what?):
+A central temperature/humidity hub device that adjusts the temperature to suit the reptile’s needs based off inputs in the companion app.
+
+Costs (how much will it cost?):
+Moderately priced (relative to other reptile housing equipment), due to it being an all-in-one (AIO) solution.
+Around $100 +/-25%.
